@@ -1,19 +1,35 @@
-## Description
-<!--- Describe your changes in detail -->
+### Descripción
 
-## Related Issue
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+Por favor, proporciona una descripción detallada de los cambios realizados en este pull request y las razones detrás de ellos.
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
+### Ticket de Clickup
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+Agrega el enlace al ticket de Clickup relacionado con este pull request. Asegúrate de reemplazar `<ticket-id>` con el ID del ticket real.
 
-## Screenshots (if appropriate):
+[CU-<ticket-id>](https://app.clickup.com/t/<ticket-id>)
+
+### Cambios realizados
+
+Enumera los cambios principales realizados en este pull request. Por ejemplo:
+
+- Implementación de la función X
+- Corrección del bug Y
+- Mejora en el rendimiento de Z
+
+### ¿Cómo probar este PR?
+
+Describe cómo otros miembros del equipo pueden probar este pull request. Incluye instrucciones detalladas, si es necesario, sobre cómo configurar el entorno de prueba y cómo verificar que los cambios funcionan correctamente.
+
+### Capturas de pantalla (si corresponde)
+
+Incluye capturas de pantalla que muestren los cambios realizados en la interfaz de usuario, si corresponde.
+
+### Consideraciones adicionales
+
+Incluye cualquier información adicional que deba ser considerada durante la revisión del pull request, como dependencias entre PRs, cambios en la base de datos, etc.
+
+### Checklist
+
+- [ ] He leído y entendido las [guías de contribución](https://github.com/YourOrganizationName/.github/blob/main/CONTRIBUTING.md).
+- [ ] He verificado que no hay otros PRs que resuelvan este problema o que estén relacionados.
+- [ ] He verificado que he incluido todos los cambios necesarios en la descripción y en el ticket de Clickup.
